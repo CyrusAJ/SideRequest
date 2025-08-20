@@ -1,6 +1,6 @@
 # SideRequest – Client-side HTTP Requests for Pavlov VR Mods
 
-SideRequest lets your Pavlov VR mod communicate clientside with an external Python server using JSON data. Behind the scenese he system uses `.png` image downloads as the backbone: the server encodes JSON into pixel data and the client decodes it back into json. The client sends data to the python server using the url params
+SideRequest lets your Pavlov VR mod communicate clientside with an external Python server using JSON data. Behind the scenes the system uses `.png` image downloads as the backbone: the server encodes JSON into pixel data and the client decodes it back into json. The client sends data to the python server using the url params
 
 ## How it works
 
